@@ -24,8 +24,9 @@ leia(num2)
 se(num1 > num2) entao
 
         escreval(num1, " é maior que ", num2)
+        
 senao
-        escreval(num2, " é maior que ", num1)
+        escreval(num2, " é maior que ", num1, " ACERTOU!")
 
 fimse
 
