@@ -35,6 +35,7 @@ escreval("----   2    ----- LASANHA        ----- R$ 20,00 ----")
 escreval("----   3    ----- STROGONOFF     ----- R$ 18,00 ----")
 escreval("----   4    ----- BIFE ACEBOLADO ----- R$ 15,00 ----")
 escreval("----   5    ----- PÃO COM OVO    ----- R$ 05,00 ----")
+escreval("----   0    ----- ENCERRAR PEDIDO-------------------")
 
 
  

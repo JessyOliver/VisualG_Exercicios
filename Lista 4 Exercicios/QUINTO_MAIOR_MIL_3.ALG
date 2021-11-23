@@ -17,23 +17,18 @@ numero, cont: inteiro
 Inicio
 // Seção de Comandos, procedimento, funções, operadores, etc... 
 
-
-numero := 1000
-
-para cont de numero  ate 1050 faça
+para numero de 1000  ate 1050 faça
 
      se((numero % 11) = 5 )entao
 
-          cont := cont + 1
-         
-     fimse
+             escreval("O numero maior que 1000, cuja divisão por 11 tenha resto 5 é: ")
+             escreval(numero)
 
-     numero := numero + 1
+     fimse
      
 fimpara
 
 
-escreval("O 5° numero maior que 1000, cuja divisão por 11 tenha resto 5 é: ")
-escreval(numero)
+
 
 Fimalgoritmo
